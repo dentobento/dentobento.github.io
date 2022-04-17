@@ -1,5 +1,5 @@
 #box {
-    width: 70%;
+    width: 500px;
     padding: 5px;
     margin: 2px;
     padding-bottom: 20px;
@@ -7,11 +7,9 @@
     text-align: center;
     background-color: aqua;
     position: absolute;
-    left: 35%;
+    left: 25%;
 }
-#box2{
-        width: 30%;
-}
+
 #text {
         color: red;
 }
