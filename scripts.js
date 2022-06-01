@@ -1,4 +1,4 @@
-alert("Hello TEJ!");
+alert("Hi!");
 
 function hello(){
     alert("Hello there!");
